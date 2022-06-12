@@ -9,6 +9,7 @@ pillow = "*"
 django-countries = {extras = ["pyuca"], version = "*"}
 django-seed = "*"
 psycopg2 = "*"
+djlint = "*"
 
 [dev-packages]
 flake8 = "*"
